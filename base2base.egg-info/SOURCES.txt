@@ -1,0 +1,8 @@
+README.md
+setup.py
+base2base/__init__.py
+base2base/converter.py
+base2base.egg-info/PKG-INFO
+base2base.egg-info/SOURCES.txt
+base2base.egg-info/dependency_links.txt
+base2base.egg-info/top_level.txt

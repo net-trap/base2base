@@ -1,0 +1,18 @@
+Metadata-Version: 2.2
+Name: base2base
+Version: 0.1.0
+Summary: A Python library to convert numbers between bases 2–62.
+Home-page: https://github.com/your_username/base2base
+Author: Your Name
+Author-email: your.email@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-python
+Dynamic: summary
