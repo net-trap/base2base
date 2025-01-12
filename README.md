@@ -18,6 +18,11 @@ pip install base2base
 
 ```
 git clone https://github.com/net-trap/base2base.git
+```
+```
 cd base2base
+```
+```
 python setup.py install
 ```
+
