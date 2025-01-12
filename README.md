@@ -17,7 +17,7 @@ pip install base2base
 ## For testing or development from source, you can clone this repository:
 
 ```
-git clone https://github.com/<your_username>/base2base.git
+git clone https://github.com/net-trap/base2base.git
 cd base2base
 python setup.py install
 ```
