@@ -8,7 +8,7 @@
 
 ## Installation
 
-You can install **base2base** from [PyPI](https://pypi.org/) (once you have published it) using:
+You can install **base2base** from [PyPI](https://pypi.org/) using:
 
 ```bash
 pip install base2base
