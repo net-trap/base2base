@@ -4,7 +4,7 @@
 
 [![PyPI version](https://img.shields.io/pypi/v/base2base)](https://pypi.org/project/base2base/)
 [![Python versions](https://img.shields.io/pypi/pyversions/base2base)](https://pypi.org/project/base2base/)
-[![License](https://img.shields.io/github/license/<your_username>/base2base)](LICENSE)
+[![License](https://img.shields.io/github/license/net-trap/base2base)](LICENSE)
 
 ## Installation
 
